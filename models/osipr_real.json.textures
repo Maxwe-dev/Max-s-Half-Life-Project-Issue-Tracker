@@ -1,0 +1,13 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "3": "osipr_barrel",
+        "4": "osipr_mag",
+        "5": "osipr_stock",
+        "missing": "blank"
+      },
+      "name": "default"
+    }
+  }
+}

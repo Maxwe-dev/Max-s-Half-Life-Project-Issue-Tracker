@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "hivehand",
+        "1": "hivehandback",
+        "2": "horns"
+      },
+      "name": "default"
+    }
+  }
+}

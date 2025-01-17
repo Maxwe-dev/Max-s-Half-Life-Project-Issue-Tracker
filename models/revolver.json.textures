@@ -1,0 +1,15 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "grip_2",
+        "1": "chamber",
+        "2": "barrel",
+        "3": "rod",
+        "4": "hammer1",
+        "5": "hammer2"
+      },
+      "name": "default"
+    }
+  }
+}

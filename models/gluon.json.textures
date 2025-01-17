@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "core",
+        "1": "heatsink",
+        "2": "handle1"
+      },
+      "name": "default"
+    }
+  }
+}

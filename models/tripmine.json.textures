@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "triplaserreal",
+        "1": "mine_1"
+      },
+      "name": "default"
+    }
+  }
+}

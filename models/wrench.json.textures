@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "iron",
+        "1": "red_1",
+        "2": "bronze"
+      },
+      "name": "default"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "grip_5",
+        "1": "barrel_3",
+        "2": "pump"
+      },
+      "name": "default"
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "tesla2",
+        "1": "tesla1"
+      },
+      "name": "default"
+    }
+  }
+}

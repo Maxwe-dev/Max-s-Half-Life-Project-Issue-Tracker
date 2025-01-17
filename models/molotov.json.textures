@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "nade",
+        "1": "rag",
+        "2": "rag2"
+      },
+      "name": "default"
+    }
+  }
+}

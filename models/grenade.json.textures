@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "nade_1",
+        "1": "clip",
+        "2": "lever"
+      },
+      "name": "default"
+    }
+  }
+}

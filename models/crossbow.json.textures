@@ -1,0 +1,15 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "magazine",
+        "2": "spring",
+        "3": "mahogany",
+        "4": "trigger",
+        "5": "scope",
+        "6": "bolt"
+      },
+      "name": "default"
+    }
+  }
+}
